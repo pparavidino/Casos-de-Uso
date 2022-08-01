@@ -15,7 +15,4 @@
       2. Se sim volte ao topico "5"
       3. Não, deseja trocar de cartão?
          1. Se sim volte para o topico "2"
-   3. Outras formas de pagamento      
-  
-   
-
+   3. Outras formas de pagament     
