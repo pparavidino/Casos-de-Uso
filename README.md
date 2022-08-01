@@ -3,7 +3,7 @@
 
 1. O cliente chega na loja escolhe o que ele vai comprar e bota no carrinho de compras.
 2. O cliente vai ao atendente para passar os itens no caixa eletronico.
-   1. O item q o cliente passou n esta nos registros.
+   1. O item q o cliente passou não esta nos registros.
    2. O cliente tera q pegar outro iten e volta ao topico "2".
 3. O cliente vera o resultado do valor de todos os itens e vai decidir se quer fechar a compra.
 4. O atendente pergunta qual o meio de pagamento do cliente.
