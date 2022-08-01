@@ -10,11 +10,13 @@
    1. O cliente e conhecido?
       1. sim,quer pendura o pagamento?
       2. Se sim, vai para ao topico "5"
+      3. Se não, volte ao topico "4"
    2. O cliente quer pagar via cartão
       1. O sistema da maquina autoriza a compra ?
       2. Se sim vá ao topico "5"
       3. Não, deseja trocar de cartão?
-         1. Se sim volte para o topico "2"
+         1. Se sim volte para o topico "4.2"
+         2. Se não vá ate o topico "4.3"
    3. Outras formas de pagamento 
          1. A vista no dinheiro
          2. Banco Digital/Pix               
