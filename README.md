@@ -17,7 +17,7 @@
          1. Se sim volte para o topico "2"
    3. Outras formas de pagamento 
          1. A vista no dinheiro
-         2. Pix               
+         2. Banco Digital/Pix               
 5. O atendente confirma a compra.
 6. O atendente te da a nota fiscal da compra e um email confirmando a compra.
    1. O email chegou ao celular do cliente?
